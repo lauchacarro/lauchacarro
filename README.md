@@ -14,11 +14,11 @@
 
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Preparándonos para NET 6: Nullable Reference en NET 6](https://lautarocarro.blog/preparandonos-para-net-6-nullable-reference-en-net-6/)
 - [Preparándonos para .NET 6: Versión Alpha](https://lautarocarro.blog/preparandonos-para-net-6-version-alpha/)
 - [Usando HTTP Interceptors en Blazor](https://lautarocarro.blog/usando-http-interceptors-en-blazor/)
 - [Introducción a Azure Static Web Apps – Latino .NET Online](https://lautarocarro.blog/introduccion-a-azure-static-web-apps-latino-net-online/)
 - [Implementar Azure Cosmos DB en nuestros proyectos Asp.Net MVC – Asp.Net MVC en Español](https://lautarocarro.blog/implementar-azure-cosmos-db-en-nuestros-proyectos-asp-net-mvc-asp-net-mvc-en-espanol/)
-- [Analizando imágenes de Instagram usando Cognitive Services – Global AI On Tour Latam](https://lautarocarro.blog/analizando-imagenes-de-instagram-usando-cognitive-services-global-ai-on-tour-latam/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📦 Languages and Tools: 
