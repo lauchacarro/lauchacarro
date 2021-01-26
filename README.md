@@ -1,18 +1,17 @@
-###  Hey there, I'm Lautaro 👋
+###  Que tal?, Soy Lautaro 👋
 
-📌 _Here are a few things that describe me:_
+📌 _Aquí hay algunas cosas que me describen:_
 
 - 💼 &nbsp;Actualmente estoy trabajando en [Algeiba](https://www.algeiba.com/) como Desarrollador de Soluciones de Software
-- 🔖 &nbsp;Currently working on a project, will OpenSource soon (no timeline though 😜)
-- 🔭 &nbsp;Personal goal ─ spend more time working on OSS
-- 💻 &nbsp;I spend most of my time writing JavaScript on both the front-end and back-end
-- 🌱 &nbsp;I’m currently learning TypeScript
+- 🔖 &nbsp;Actualmente soy uno de los organizadores de [Conosur.Tech](https://conosur.tech/) y [Latino .NET Online](https://latinonet.online/)
+- 🔭 &nbsp;Mi objetivo personal es convertirme en un arquitecto de software
+- 💻 &nbsp;Paso la mayor parte de mi tiempo escribiendo C# tanto con Blazor como en el desarrollo de Web-Api
+- 🌱 &nbsp;Actualmente estoy aprendiendo .NET 6
 - 💬 &nbsp;Pregúntame sobre cualquier cosa, estaré encantado de ayudarte.
-- 📫 &nbsp;_How to reach me:_ [Twitter](https://twitter.com/lauchacarro) | [Linkedin](https://www.linkedin.com/in/lautaro-carro/) | [Email](mailto:lautaroecarro@gmail.com) | [Website](https://lautarocarro.blog) 🚀
-- 😄 &nbsp;_Pronouns:_ he/him
-- ⚡ &nbsp;_Fun fact:_ I ❤️ what I am doing!!😄
+- 📫 &nbsp;_Como encontrarme:_ [Twitter](https://twitter.com/lauchacarro) | [Linkedin](https://www.linkedin.com/in/lautaro-carro/) | [Email](mailto:lautaroecarro@gmail.com) | [Website](https://lautarocarro.blog) 🚀
+- ⚡ &nbsp;_Fun fact:_ I ❤️ programming!!😄
 
-### 📩 Latest Blog Posts
+### 📩 Últimos articulos del Blog
 <!-- BLOG-POST-LIST:START -->
 - [Preparándonos para NET 6: Nullable Reference en NET 6](https://lautarocarro.blog/preparandonos-para-net-6-nullable-reference-en-net-6/)
 - [Preparándonos para .NET 6: Versión Alpha](https://lautarocarro.blog/preparandonos-para-net-6-version-alpha/)
@@ -21,7 +20,7 @@
 - [Implementar Azure Cosmos DB en nuestros proyectos Asp.Net MVC – Asp.Net MVC en Español](https://lautarocarro.blog/implementar-azure-cosmos-db-en-nuestros-proyectos-asp-net-mvc-asp-net-mvc-en-espanol/)
 <!-- BLOG-POST-LIST:END -->
 
-### 📦 Languages and Tools: 
+### 📦 Lenguajes y tecnologias: 
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
