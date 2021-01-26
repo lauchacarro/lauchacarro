@@ -11,7 +11,7 @@
 - 📫 &nbsp;_Como encontrarme:_ [Twitter](https://twitter.com/lauchacarro) | [Linkedin](https://www.linkedin.com/in/lautaro-carro/) | [Email](mailto:lautaroecarro@gmail.com) | [Website](https://lautarocarro.blog) 🚀
 - ⚡ &nbsp;_Fun fact:_ I ❤️ programming!!😄
 
-### 📩 Últimos articulos del Blog
+### 📩 Últimos Articulos del Blog
 <!-- BLOG-POST-LIST:START -->
 - [Preparándonos para NET 6: Nullable Reference en NET 6](https://lautarocarro.blog/preparandonos-para-net-6-nullable-reference-en-net-6/)
 - [Preparándonos para .NET 6: Versión Alpha](https://lautarocarro.blog/preparandonos-para-net-6-version-alpha/)
@@ -20,7 +20,7 @@
 - [Implementar Azure Cosmos DB en nuestros proyectos Asp.Net MVC – Asp.Net MVC en Español](https://lautarocarro.blog/implementar-azure-cosmos-db-en-nuestros-proyectos-asp-net-mvc-asp-net-mvc-en-espanol/)
 <!-- BLOG-POST-LIST:END -->
 
-### 📦 Lenguajes y tecnologias: 
+### 📦 Lenguajes y Tecnología: 
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
