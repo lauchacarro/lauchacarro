@@ -13,11 +13,11 @@
 
 ### 📩 Últimos Articulos del Blog
 <!-- BLOG-POST-LIST:START -->
+- [Preparándonos para .NET 6: Asp NET Core Roadmap](https://lautarocarro.blog/preparandonos-para-net-6-asp-net-core-roadmap/)
 - [¿Blazor vale la pena? Cuando si y cuando no](https://lautarocarro.blog/blazor-vale-la-pena-cuando-si-y-cuando-no/)
 - [Preparándonos para NET 6: Nullable Reference en NET 6](https://lautarocarro.blog/preparandonos-para-net-6-nullable-reference-en-net-6/)
 - [Preparándonos para .NET 6: Versión Alpha](https://lautarocarro.blog/preparandonos-para-net-6-version-alpha/)
 - [Usando HTTP Interceptors en Blazor](https://lautarocarro.blog/usando-http-interceptors-en-blazor/)
-- [Introducción a Azure Static Web Apps – Latino .NET Online](https://lautarocarro.blog/introduccion-a-azure-static-web-apps-latino-net-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📦 Lenguajes y Tecnología: 
