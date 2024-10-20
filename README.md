@@ -2,7 +2,7 @@
 
 📌 _Aquí hay algunas cosas que me describen:_
 
-- 💼 &nbsp;Actualmente estoy trabajando en [Algeiba](https://www.algeiba.com/) como Desarrollador de Soluciones de Software
+- 💼 &nbsp;Actualmente estoy trabajando en [Mouron-IT](https://www.mouron-it.com/) como Software Developer Management
 - 🔖 &nbsp;Actualmente soy uno de los organizadores [Latino .NET Online](https://latinonet.online/)
 - 🔭 &nbsp;Mi objetivo personal es convertirme en un arquitecto de software
 - 💻 &nbsp;Paso la mayor parte de mi tiempo escribiendo C# tanto con Blazor como en el desarrollo de Web-Api
